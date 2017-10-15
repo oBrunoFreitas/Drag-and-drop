@@ -1,0 +1,41 @@
+#box-drop{
+	width: 600px;
+	height: 400px;
+	border: 1px solid #737373;
+	background-color: #ccc;
+	position: relative;	
+	text-align: center;
+	margin:  25px auto;
+
+	}
+
+img {
+	position: relative;
+	display: block;	
+	margin: 15px auto 0;
+}
+
+h1{
+	position: relative;
+	width: 600px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 35px;
+	text-align: center;
+
+}	
+
+footer{
+	text-align: center;
+	
+}
+
+footer a{
+	text-decoration: none;
+	color: #737373;
+}
+
+footer a:hover{
+	color: orange;
+}
+			
